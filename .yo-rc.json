@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Practical Speed. Tips, tricks, and tools.",
+    "packageVersion": "0.0.1",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "joeyblake",
+    "githubRepository": "Practical-Speed"
+  }
+}

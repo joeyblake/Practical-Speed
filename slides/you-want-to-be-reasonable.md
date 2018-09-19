@@ -1,0 +1,10 @@
+##  Your approach matters.
+
+
+
+note:
+    * A practical approach to performance is even more important.
+
+    * There are many angles to approaching performance enhancements, applying your energy in the correct place and in the correct order will yield the best results.
+
+    * It is easy to get caught up in moving the needle. There could be SIGNIFICANT time and money spent to try and address all of the performance angles possible for your site.
