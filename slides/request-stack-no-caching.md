@@ -1,4 +1,5 @@
 
+![](resources/images/request-stack-without-caching.png) <!-- .element: class="plain" -->
 
 note:
     On a typical host, you'll have WordPress, PHP, and a Database installed.

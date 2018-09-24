@@ -1,7 +1,6 @@
 ##  How then?
 
-Do ![](resources/images/clapping-hands.png) less ![](resources/images/clapping-hands.png) work ![](resources/images/clapping-hands.png).
+Do 👏 less 👏 work 👏 <!-- .element: class="fragment" -->
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    This is a big theme. And helpful to applying throughout this process.

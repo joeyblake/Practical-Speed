@@ -13,115 +13,100 @@
         "attr": {}
     },
     {
-        "filename": "scene.md",
+        "filename": "defining-performance.md",
         "attr": {}
     },
     {
         "filename": "no.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "how-then.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "request-stack-no-caching.md",
-        "attr": {
-            "data-background": "resources/images/request-stack-without-caching.png"
-        }
+        "attr": {}
     },
     {
         "filename": "use-php-7.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "switching-to-php-7.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "general-consensus-on-php-7.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "troll.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "if-not.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "request-stack.md",
-        "attr": {
-            "data-background": "resources/images/request-stack-with-caching.png"
-        }
+        "attr": {}
     },
     {
         "filename": "page-caching.md",
-        "attr": {
-            "data-background": "resources/images/request-stack-with-page-caching.png"
-        }
+        "attr": {}
     },
     {
-        "filename": "page-caching-tools.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "filename": "page-caching-tools-level-1.md",
+        "attr": {}
+    },
+    {
+        "filename": "page-caching-tools-level-2.md",
+        "attr": {}
+    },
+    {
+        "filename": "page-caching-tools-level-3.md",
+        "attr": {}
     },
     {
         "filename": "page-caching-tips.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "cache-missed.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "object-cache.md",
+        "attr": {}
+    },
+    {
+        "filename": "object-cache-tools.md",
+        "attr": {}
+    },
+    {
+        "filename": "object-caching-level-1.md",
         "attr": {
             "data-background": "#ff0000"
         }
     },
     {
-        "filename": "object-cache-tools.md",
+        "filename": "object-caching-level-2.md",
         "attr": {
             "data-background": "#ff0000"
         }
     },
     {
         "filename": "front-end-diagnostic-tools.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "front-end-diagnostic-tips.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "back-end-diagnostic-tools.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     }
+
 ]

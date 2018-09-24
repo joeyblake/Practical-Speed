@@ -1,6 +1,6 @@
 ##  object cache
 
-![](resources/images/request-stack-with-object-caching.png)
+![](resources/images/request-stack-with-object-caching.png) <!-- .element: class="plain" style="width: 750px;" -->
 
 note:
     There should be a little php block above object cache as well because they kind of work together.
