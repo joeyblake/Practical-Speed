@@ -2,18 +2,11 @@
 
 Diagnostic tools:
 
-Google pagespeed insights
-https://developers.google.com/speed/pagespeed/insights/
-
-https://cl.ly/36d7178805e2
-
-https://cl.ly/ca3f5abafffe
-
-
-Sitespeed.io
-https://www.sitespeed.io/
-
-https://cl.ly/a9f9995eb836
+Start with simple.<br>
+![](resources/images/page-load-time-w-window.gif) <!-- .element: class="plain" style="text-align: center; vertical-align: bottom;" -->
+<br>
+👆⏱<br>
+"page load time" chrome extension
 
 note:
     Put your speaker notes here.

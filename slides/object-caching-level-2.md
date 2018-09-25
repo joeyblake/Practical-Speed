@@ -9,7 +9,7 @@ function get_my_custom_data( $param ) {
     if ( false === $custom_data ) {
         $custom_query = new WP_Query([...]);
         $custom_data = $custom_query->posts;
-        set_transient( $cache_key, $custom_data, 'my_group', 5 * 60 );
+        set_transient( $cache_key, $custom_data, 'my_grp', 5 * 60 );
     }
     return $custom_data;
 }

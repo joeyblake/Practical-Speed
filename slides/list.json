@@ -86,12 +86,14 @@
     },
     {
         "filename": "object-caching-level-1.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "object-caching-level-2.md",
+        "attr": {}
+    },
+    {
+        "filename": "caching-summed-up.md",
         "attr": {
             "data-background": "#ff0000"
         }
@@ -101,12 +103,53 @@
         "attr": {}
     },
     {
+        "filename": "front-end-diagnostic-tools-level-2.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "front-end-diagnostic-tools-level-2-cont.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
         "filename": "front-end-diagnostic-tips.md",
         "attr": {}
     },
     {
+        "filename": "front-end-tips-images.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "front-end-tips-css-js.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
         "filename": "back-end-diagnostic-tools.md",
         "attr": {}
+    },
+    {
+        "filename": "backend-tools-level-1.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "backend-tools-level-2.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "backend-tools-level-3.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
     }
-
 ]

@@ -1,7 +1,7 @@
 ##  back end diagnostic tools
 
-https://wordpress.org/plugins/query-monitor/
-https://github.com/jokkedk/webgrind/wiki/Installation
+* Sometimes there are performance issues that go deeper
+* you can only debug as well as you can see
 
 note:
     Put your speaker notes here.
