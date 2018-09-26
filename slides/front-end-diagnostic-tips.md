@@ -3,7 +3,7 @@
 * Worst offenders:
     * image sizes
     * non-asynchronous javascript embeds
-    * non minified and concatenated css and js<br>https://wordpress.org/plugins/autoptimize/
+    * non minified and concatenated css and js
 
 note:
 
