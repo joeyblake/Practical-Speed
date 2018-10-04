@@ -1,7 +1,5 @@
 ##  tune your server
-
-This is a new Markdown slide
-
+![](resources/images/running-elephant.gif) <!-- .element class="fragment plain" -->
 note:
     Put your speaker notes here.
     You can see them pressing 's'.
