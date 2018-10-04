@@ -3,7 +3,7 @@
 * Lead Developer at [Knucklepuck](https://www.knucklepuckmedia.com "Knucklepuck Homepage")
 * I have worked on a lot of big sites.
 
-![](resources/images/alot.jpg)
+![](resources/images/monkey-typing.gif)<!--.element class="plain" -->
 
 note:
 

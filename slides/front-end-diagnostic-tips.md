@@ -3,6 +3,7 @@
 * Worst offenders:
     * image sizes
     * non-asynchronous javascript embeds
+    * iframe embeds
     * non minified and concatenated css and js
 
 note:
