@@ -1,5 +1,5 @@
 
-![](resources/images/request-stack-with-caching.png) <!-- .element: class="plain" style="width: 800px;" -->
+![](resources/images/request-stack-with-caching.png) <!-- .element: class="plain" style="width: 800px; background:none;" -->
 
 note:
     * Each of these layers takes progressively more work
