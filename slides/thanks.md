@@ -1,5 +1,7 @@
 ##  thanks!
 
+Questions welcome!
+
 @joeyblake
 
 ![](resources/images/thx.jpg)<!-- .element class="plain" style="width: 600px;" -->
